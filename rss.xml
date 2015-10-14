@@ -5,15 +5,8 @@
         <description><![CDATA[pobronson]]></description>
         <link>https://thegrid.ai/pobronson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 17:32:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2015 17:32:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pobronson/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Impossible To Kill Me Game]]></title>
-            <description><![CDATA[<article><h1>The Impossible To Kill Me Game</h1><img src="http://www.pobronson.com/_borders/NewLeftBar.jpg"></article>]]></description>
-            <link>http://www.pobronson.com/Impossible_To_Kill_Me.htm</link>
-            <guid isPermaLink="false">9d056a11-bc70-4dd0-af85-671d93f54556</guid>
-            <pubDate>Wed, 14 Oct 2015 17:31:16 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>moment</p>]]></description>
@@ -75,6 +68,13 @@
             <description><![CDATA[<article><h1>Elisabeth Targ, M.D.</h1><img src="http://www.pobronson.com/_borders/NewLeftBar.jpg"></article>]]></description>
             <link>http://www.pobronson.com/A_Prayer_Before_Dying.htm</link>
             <guid isPermaLink="false">612d0a06-68a8-4a25-89c5-4d847188a26e</guid>
+            <pubDate>Wed, 14 Oct 2015 17:30:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>it’s</p>]]></description>
+            <link>https://thegrid.ai/pobronson/its/index.html</link>
+            <guid isPermaLink="false">58c081c9-40e2-47b0-a5bd-660711ce10e0</guid>
             <pubDate>Wed, 14 Oct 2015 17:30:13 GMT</pubDate>
         </item>
     </channel>
