@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[pobronson]]></title>
+        <description><![CDATA[pobronson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 14 Oct 2015 17:30:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Do I Love These People?]]></title>
+            <description><![CDATA[<article><h1>Why Do I Love These People?</h1><p>(from the Introduction to "Why Do I Love These People?") A few years back, a woman named Jerriann Massey was floating down a river on an innertube when she got sucked into a hole on the back side of a waterfall. There, stuck in that hole, a very curious thing happened.</p><img src="http://www.pobronson.com/_borders/NewLeftBar.jpg"></article>]]></description>
+            <link>http://www.pobronson.com/WDILTP_Intro.htm</link>
+            <guid isPermaLink="false">570cf55e-a85e-4415-b075-9bac19e4c51f</guid>
+            <pubDate>Wed, 14 Oct 2015 17:29:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
