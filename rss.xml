@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[pobronson]]></title>
         <description><![CDATA[pobronson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pobronson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 17:30:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 14 Oct 2015 17:30:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pobronson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What Should I Do With My Life? by Po Bronson]]></title>
+            <description><![CDATA[<article><h1>What Should I Do With My Life? by Po Bronson</h1><p>Obvious Questions Don't Have Obvious Answers We are all writing the story of our life. We want to know what it's "about," what are its themes and which theme is on the rise. We demand of it something deeper, or richer, or more substantive.</p><img src="http://www.pobronson.com/_borders/NewLeftBar.jpg"></article>]]></description>
+            <link>http://www.pobronson.com/WSIDWML_Introduction.htm</link>
+            <guid isPermaLink="false">37694e07-a11c-4eb3-9e72-06c8851db064</guid>
+            <pubDate>Wed, 14 Oct 2015 17:29:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Do I Love These People?]]></title>
             <description><![CDATA[<article><h1>Why Do I Love These People?</h1><p>(from the Introduction to "Why Do I Love These People?") A few years back, a woman named Jerriann Massey was floating down a river on an innertube when she got sucked into a hole on the back side of a waterfall. There, stuck in that hole, a very curious thing happened.</p><img src="http://www.pobronson.com/_borders/NewLeftBar.jpg"></article>]]></description>
