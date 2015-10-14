@@ -5,8 +5,15 @@
         <description><![CDATA[pobronson]]></description>
         <link>https://thegrid.ai/pobronson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 17:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2015 17:32:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pobronson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pie, The Dark Period]]></title>
+            <description><![CDATA[<article><h1>Pie, The Dark Period</h1><p>The 20th century is commonly referred to as the American Century, and what seems more American than homemade pie?</p><img src="http://www.pobronson.com/_borders/NewLeftBar.jpg"></article>]]></description>
+            <link>http://www.pobronson.com/pie.htm</link>
+            <guid isPermaLink="false">806d88c7-e04f-45b8-a50b-0750f5044c37</guid>
+            <pubDate>Wed, 14 Oct 2015 17:31:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>be</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.pobronson.com/WSIDWML_Kat_James.htm</link>
             <guid isPermaLink="false">3cb2be74-3ce9-4901-b5be-1b058e7ff8bd</guid>
             <pubDate>Wed, 14 Oct 2015 17:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Should I Do With My Life? by Po Bronson]]></title>
-            <description><![CDATA[<article><h1>What Should I Do With My Life? by Po Bronson</h1><img src="http://www.pobronson.com/_borders/NewLeftBar.jpg"></article>]]></description>
-            <link>http://www.pobronson.com/WSIDWML_Lady_J.htm</link>
-            <guid isPermaLink="false">6fce19c3-293a-4fea-bc17-f05b6e9e6c64</guid>
-            <pubDate>Wed, 14 Oct 2015 17:30:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
