@@ -1,6 +1,6 @@
 name: pobronson
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.8043515200261027
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: stars
     item: null
     url: null
+typography_spectrum: 0.27022867277264595
